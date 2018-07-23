@@ -57,6 +57,17 @@ h3{
   color:white;
   font-size:1.7em;
 }
+
+.mailBtn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
 .page1{
   background-image: url("https://images.unsplash.com/photo-1451481454041-104482d8e284?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=");
   background-size:cover;
