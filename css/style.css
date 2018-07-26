@@ -76,9 +76,9 @@ h3{
 .page3{
   background:url("https://images.unsplash.com/photo-1440407876336-62333a6f010f?dpr=2&auto=format&fit=crop&w=1500&h=996&q=80&cs=tinysrgb&crop=");
   background-size:cover;
-/*  padding-top:5%;
+  padding-top:5%;
   padding-bottom:15%;
-  overflow: hidden;*/
+  overflow: hidden;
 }
 
 .page4{
