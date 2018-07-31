@@ -76,7 +76,8 @@ h3{
 .page3{
   background:url("https://images.unsplash.com/photo-1440407876336-62333a6f010f?dpr=2&auto=format&fit=crop&w=1500&h=996&q=80&cs=tinysrgb&crop=");
   background-size:cover;
-/*  padding-top:5%;
+  padding-top:20%;
+/*  
   padding-bottom:15%;
   overflow: hidden; */
 }
@@ -85,7 +86,8 @@ h3{
   background:url("https://images.unsplash.com/photo-1414919823178-e9d9d0afd0ac?dpr=2&auto=format&fit=crop&w=1500&h=887&q=80&cs=tinysrgb&crop=");
   background-size:cover;
   color:white;
-/*  padding-top:25%;
+  padding-top:25%;
+/* 
   padding-bottom:10%;
   overflow:hidden;
   background-repeat:no-repeat; */
