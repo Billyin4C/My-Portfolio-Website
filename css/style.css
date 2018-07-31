@@ -62,7 +62,7 @@ h3{
 .page1{
   background-image: url("https://images.unsplash.com/photo-1451481454041-104482d8e284?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=");
   background-size:cover;
-  padding-bottom:40%; 
+  padding-bottom:20%; 
 }
 
 .page2{
@@ -76,9 +76,10 @@ h3{
 .page3{
   background:url("https://images.unsplash.com/photo-1440407876336-62333a6f010f?dpr=2&auto=format&fit=crop&w=1500&h=996&q=80&cs=tinysrgb&crop=");
   background-size:cover;
-  padding-top:20%;
+  padding-top:10%;
+  padding-bottom:10%;
 /*  
-  padding-bottom:15%;
+  
   overflow: hidden; */
 }
 
@@ -86,11 +87,9 @@ h3{
   background:url("https://images.unsplash.com/photo-1414919823178-e9d9d0afd0ac?dpr=2&auto=format&fit=crop&w=1500&h=887&q=80&cs=tinysrgb&crop=");
   background-size:cover;
   color:white;
-  padding-top:25%;
-/* 
+  padding-top:10%;
   padding-bottom:10%;
-  overflow:hidden;
-  background-repeat:no-repeat; */
+
   
 }
 
@@ -105,7 +104,7 @@ p{
 
 .paddingTop{
   padding-top:2%;
-  padding-bottom:2%;
+  padding-bottom:6%;
 }
 
 .paddingBTN{
