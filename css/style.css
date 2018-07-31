@@ -62,7 +62,7 @@ h3{
 .page1{
   background-image: url("https://images.unsplash.com/photo-1451481454041-104482d8e284?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=");
   background-size:cover;
-  padding-bottom:20%; 
+  padding-bottom:30%; 
 }
 
 .page2{
@@ -104,7 +104,7 @@ p{
 
 .paddingTop{
   padding-top:2%;
-  padding-bottom:6%;
+  padding-bottom:20%;
 }
 
 .paddingBTN{
