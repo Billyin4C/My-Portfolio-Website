@@ -104,6 +104,9 @@ p{
   font-size:1.5em;
 }
 
+#p3 h3,h4{
+  color:black;
+}
 
 .paddingTop{
   padding-top:2%;
