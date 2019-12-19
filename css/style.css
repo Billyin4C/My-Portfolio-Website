@@ -32,9 +32,10 @@ a:link{
 }
 .nav-pills{
   
-   font-size:1.7em;
+  font-size:1.7em;
   background-color:black;
   margin-bottom:10%;
+  color: white;
 }
 
 body{
